@@ -2,8 +2,8 @@
 
 ## 依赖
 
-> node 20.11.1 LST
-> pnpm 8.15.4
+> node 20.11.1 LST  
+> pnpm 8.15.4  
 > pnpm 淘宝镜像 https://registry.npmmirror.com
 
 [去官网搜索 node 版本](https://nodejs.org/en)
